@@ -1,0 +1,12 @@
+{
+	"$schema": "https://raw.githubusercontent.com/lde-org/lde/master/schemas/lde.schema.json",
+	"name": "lacer",
+	"version": "0.1.0",
+	"description": "A GPU path tracer in LuaJIT, built on hood compute shaders",
+	"dependencies": {
+		"hood": { "path": "../hood" }
+	},
+	"devDependencies": {
+		"lde-test": { "git": "https://github.com/lde-org/lde" }
+	}
+}

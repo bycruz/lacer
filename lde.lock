@@ -1,0 +1,35 @@
+{
+	"dependencies": {
+		"glapi": {
+			"commit": "1ebf797e80cce9142dbf764f51bf0f229068b5b4",
+			"git": "https://github.com/bycruz/glapi"
+		},
+		"hood": {
+			"path": "../hood"
+		},
+		"lde-test": {
+			"commit": "891893c17e426dadb10710a426ec8253d69fae10",
+			"git": "https://github.com/lde-org/lde"
+		},
+		"vkapi": {
+			"commit": "30065378f69cce95eaf829738d7b109bdd949bcb",
+			"git": "https://github.com/bycruz/vkapi"
+		},
+		"winapi": {
+			"commit": "015db25797b344be340023114e8eaf0c8043c0b7",
+			"git": "https://github.com/bycruz/winapi",
+			"optional": true
+		},
+		"winit": {
+			"commit": "d43f278a2512fdd33858608f5efe5f6df2ae1abd",
+			"git": "https://github.com/bycruz/winit"
+		},
+		"x11api": {
+			"commit": "af529c46d5563049040d692c004d842bb1b4e7a1",
+			"git": "https://github.com/bycruz/x11api",
+			"optional": true
+		}
+	},
+	"manifestHash": "ab6751f3c2c7e8cf",
+	"version": "1"
+}
